@@ -31,6 +31,60 @@ La **Stack Technique** utilisée pour ce projet est celle ci-contre :
 | **Annuaire** | Active Directory DS, DNS |
 | **Frontend** | HTML5, CSS3 (thème Terminal) |
 ---
+## Avant de commencer
+
+**Les besoins métiers :**
+1. Gestion des enquêtes
+- Stocker les dossiers - clients (preuves photos, rapports)
+- Accéder rapidement aux informations
+- Travailler à plusieurs sur une affaire
+
+2. Confidentialité des données
+- Protéger les informations sensibles (clients, enquêtes, preuves)
+- Éviter les fuites ou accès non autorisés
+
+3. Gestion des utilisateurs
+- Créer des comptes 
+- Gérer les droits selon les rôles
+- Contrôler qui accède à quoi
+
+4. Accès aux services internes
+- Accéder à la WebApp (gestion des dossiers)
+- Accéder aux fichiers et bases de données
+
+5. Surveillance et détection des menaces
+- Détecter les intrusions ou comportements suspects
+- Réagir rapidement à une attaque
+
+6. Sauvegarde et continuité d’activité
+- Éviter la perte de données
+- Reprendre rapidement après incident
+
+**Les Valeurs Métiers :** 
+
+1. Sécurité renforcée
+- Protection des données sensibles
+- Réduction du risque de piratage
+
+2. Efficacité opérationnelle
+- Accès rapide aux dossiers
+- Collaboration facilitée entre détectives
+
+3. Traçabilité et contrôle
+- Surpervision des connexions
+- Suivi des actions utilisateurs
+
+4. Architecture organisée et évolutive
+- Séparation logique des services
+- Communication contrôlée
+
+5. Réduction des risques
+- Isolation des réseaux 
+- Firewall contrôle les flux
+
+6. Conformité réglementaire
+- Protection des données personnelles (type RGPD)
+- Gestion des accès et des logs
 
 ## I. Architecture et Infrastructure
 
